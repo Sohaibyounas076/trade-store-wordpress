@@ -1,0 +1,276 @@
+{
+    "version": "0.4",
+    "title": "Contact",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "72578f32",
+            "settings": {
+                "gap": "wider",
+                "background_background": "classic",
+                "background_color": "#F9F9F9",
+                "padding": {
+                    "unit": "px",
+                    "top": "48",
+                    "right": "0",
+                    "bottom": "48",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7130efdf",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "30",
+                            "right": "30",
+                            "bottom": "0",
+                            "left": "30",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "77202859",
+                            "settings": {
+                                "title": "Contact",
+                                "header_size": "h1",
+                                "typography_typography": "custom",
+                                "typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1b48a25c",
+            "settings": {
+                "layout": "full_width",
+                "gap": "wider"
+            },
+            "elements": [
+                {
+                    "id": "c4ed9e",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "a205408",
+                            "settings": {
+                                "premium_map_location_finder": "yes",
+                                "premium_maps_center_lat": "-6.2257826",
+                                "premium_maps_center_long": "106.8026057",
+                                "premium_maps_map_pins": [
+                                    {
+                                        "map_latitude": "-6.2257826",
+                                        "map_longitude": "106.8026057",
+                                        "pin_title": "Jakarta",
+                                        "pin_desc": "<p>Etiam porta sem malesuada magna mollis euismod. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.<\/p>",
+                                        "_id": "0462184",
+                                        "premium_map_pin_location_finder": "yes",
+                                        "pin_icon": {
+                                            "url": "",
+                                            "id": ""
+                                        }
+                                    }
+                                ],
+                                "premium_maps_map_option_map_type_control": "yes",
+                                "premium_maps_map_option_zoom_controls": "yes",
+                                "premium_maps_map_zoom": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "premium_maps_custom_styling": "[\n    {\n        \"stylers\": [\n            {\n                \"saturation\": -100\n            }\n        ]\n    },\n    {\n        \"featureType\": \"water\",\n        \"elementType\": \"geometry.fill\",\n        \"stylers\": [\n            {\n                \"color\": \"#0099dd\"\n            }\n        ]\n    },\n    {\n        \"elementType\": \"labels\",\n        \"stylers\": [\n            {\n                \"visibility\": \"off\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"poi.park\",\n        \"elementType\": \"geometry.fill\",\n        \"stylers\": [\n            {\n                \"color\": \"#aadd55\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.highway\",\n        \"elementType\": \"labels\",\n        \"stylers\": [\n            {\n                \"visibility\": \"on\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.arterial\",\n        \"elementType\": \"labels.text\",\n        \"stylers\": [\n            {\n                \"visibility\": \"on\"\n            }\n        ]\n    },\n    {\n        \"featureType\": \"road.local\",\n        \"elementType\": \"labels.text\",\n        \"stylers\": [\n            {\n                \"visibility\": \"on\"\n            }\n        ]\n    },\n    {}\n]",
+                                "premium_maps_map_height": {
+                                    "unit": "px",
+                                    "size": 733,
+                                    "sizes": []
+                                },
+                                "premium_maps_map_height_tablet": {
+                                    "unit": "px",
+                                    "size": 400,
+                                    "sizes": []
+                                },
+                                "_z_index": 0,
+                                "_element_width": "initial",
+                                "_element_custom_width": {
+                                    "unit": "vw",
+                                    "size": 74,
+                                    "sizes": []
+                                },
+                                "_position": "absolute",
+                                "_offset_orientation_h": "end",
+                                "_offset_x": {
+                                    "size": -237,
+                                    "unit": "px"
+                                },
+                                "_offset_x_end": {
+                                    "size": 36,
+                                    "unit": "vw"
+                                },
+                                "_offset_y": {
+                                    "size": -30,
+                                    "unit": "px"
+                                },
+                                "hide_mobile": "hidden-phone"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "premium-addon-maps",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4255cc02",
+                            "settings": {
+                                "structure": "20",
+                                "margin": {
+                                    "unit": "px",
+                                    "top": "96",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                },
+                                "margin_tablet": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": 0,
+                                    "bottom": "0",
+                                    "left": 0,
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "95473af",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 37.982
+                                    },
+                                    "elements": [],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "77e52915",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": 62.018,
+                                        "background_background": "classic",
+                                        "background_color": "#FFFFFF",
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "48",
+                                            "right": "48",
+                                            "bottom": "40",
+                                            "left": "48",
+                                            "isLinked": false
+                                        },
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "3600bc63",
+                                            "settings": {
+                                                "title": "Let's Get In touch",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "16",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                },
+                                                "align": "left",
+                                                "typography_typography": "custom",
+                                                "typography_font_size_mobile": {
+                                                    "unit": "px",
+                                                    "size": 38,
+                                                    "sizes": []
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "68dbcb16",
+                                            "settings": {
+                                                "editor": "<p>Etiam porta sem malesuada magna mollis euismod. Nullam quis risus eget urna mollis ornare vel eu leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.\u00a0<\/p>",
+                                                "_margin": {
+                                                    "unit": "px",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "48",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "text-editor",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "71042362",
+                                            "settings": {
+                                                "mf_form_id": "{\"id\":\"434***1586830838140\",\"data\":[\"[{\\\"id\\\":\\\"6f47c977\\\",\\\"elType\\\":\\\"section\\\",\\\"settings\\\":{\\\"gap\\\":\\\"no\\\",\\\"background_background\\\":\\\"classic\\\",\\\"background_color\\\":\\\"#ffffff\\\",\\\"border_radius\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":true},\\\"box_shadow_box_shadow\\\":{\\\"horizontal\\\":30,\\\"vertical\\\":30,\\\"blur\\\":80,\\\"spread\\\":0,\\\"color\\\":\\\"rgba(0,0,0,0.1)\\\"},\\\"padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":true},\\\"padding_tablet\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"35\\\",\\\"right\\\":\\\"15\\\",\\\"bottom\\\":\\\"35\\\",\\\"left\\\":\\\"15\\\",\\\"isLinked\\\":false}},\\\"elements\\\":[{\\\"id\\\":\\\"491e114e\\\",\\\"elType\\\":\\\"column\\\",\\\"settings\\\":{\\\"_column_size\\\":100,\\\"padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"padding_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false}},\\\"elements\\\":[{\\\"id\\\":\\\"32e5cf2b\\\",\\\"elType\\\":\\\"section\\\",\\\"settings\\\":{\\\"gap\\\":\\\"extended\\\",\\\"structure\\\":\\\"20\\\",\\\"margin_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":0,\\\"bottom\\\":\\\"0\\\",\\\"left\\\":0,\\\"isLinked\\\":false},\\\"padding_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":0,\\\"bottom\\\":\\\"24\\\",\\\"left\\\":0,\\\"isLinked\\\":false}},\\\"elements\\\":[{\\\"id\\\":\\\"1d7d72ee\\\",\\\"elType\\\":\\\"column\\\",\\\"settings\\\":{\\\"_column_size\\\":50,\\\"_inline_size\\\":null,\\\"margin_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"24\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"10\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"padding_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false}},\\\"elements\\\":[{\\\"id\\\":\\\"489b13f8\\\",\\\"elType\\\":\\\"widget\\\",\\\"settings\\\":{\\\"mf_input_label\\\":\\\"First Name\\\",\\\"mf_input_name\\\":\\\"mf-first-name\\\",\\\"mf_input_placeholder\\\":\\\"Anderson\\\",\\\"mf_input_help_text\\\":\\\"Enter your first name here\\\",\\\"mf_input_label_typography_typography\\\":\\\"custom\\\",\\\"mf_input_label_typography_font_weight\\\":\\\"500\\\",\\\"mf_input_label_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":21,\\\"sizes\\\":[]},\\\"mf_input_min_length\\\":1,\\\"mf_input_label_color\\\":\\\"#333333\\\",\\\"mf_input_label_margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"5\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_input_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"15\\\",\\\"right\\\":\\\"25\\\",\\\"bottom\\\":\\\"15\\\",\\\"left\\\":\\\"25\\\",\\\"isLinked\\\":false},\\\"mf_input_color\\\":\\\"#333333\\\",\\\"mf_input_border_border\\\":\\\"solid\\\",\\\"mf_input_border_width\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"1\\\",\\\"right\\\":\\\"1\\\",\\\"bottom\\\":\\\"1\\\",\\\"left\\\":\\\"1\\\",\\\"isLinked\\\":true},\\\"mf_input_border_color\\\":\\\"#DEDEDE\\\",\\\"mf_input_typgraphy_typography\\\":\\\"custom\\\",\\\"mf_input_typgraphy_font_family\\\":\\\"Helvetica\\\",\\\"mf_input_typgraphy_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":14,\\\"sizes\\\":[]},\\\"mf_input_typgraphy_font_weight\\\":\\\"400\\\",\\\"mf_input_typgraphy_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":15,\\\"sizes\\\":[]},\\\"mf_input_box_shadow_box_shadow_type\\\":\\\"yes\\\",\\\"mf_input_box_shadow_box_shadow\\\":{\\\"horizontal\\\":0,\\\"vertical\\\":3,\\\"blur\\\":5,\\\"spread\\\":0,\\\"color\\\":\\\"rgba(0, 0, 0, 0)\\\"},\\\"mf_input_place_holder_typography_typography\\\":\\\"custom\\\",\\\"mf_input_place_holder_typography_font_weight\\\":\\\"300\\\",\\\"mf_input_placeholder_color\\\":\\\"#777777\\\",\\\"mf_input_help_text_typography_typography\\\":\\\"custom\\\",\\\"mf_input_help_text_typography_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":12,\\\"sizes\\\":[]},\\\"mf_input_help_text_typography_font_weight\\\":\\\"400\\\",\\\"mf_input_help_text_typography_font_style\\\":\\\"italic\\\",\\\"mf_input_help_text_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":14,\\\"sizes\\\":[]},\\\"mf_input_help_text_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"3\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_input_required\\\":\\\"yes\\\",\\\"mf_input_required_indicator_color\\\":\\\"#B60404\\\",\\\"mf_input_validation_warning_message\\\":\\\"Something went wrong.\\\"},\\\"elements\\\":[],\\\"widgetType\\\":\\\"mf-text\\\"}],\\\"isInner\\\":true},{\\\"id\\\":\\\"6ee9d04d\\\",\\\"elType\\\":\\\"column\\\",\\\"settings\\\":{\\\"_column_size\\\":50,\\\"_inline_size\\\":null,\\\"margin_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"24\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"10\\\",\\\"isLinked\\\":false},\\\"padding_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false}},\\\"elements\\\":[{\\\"id\\\":\\\"20d2c657\\\",\\\"elType\\\":\\\"widget\\\",\\\"settings\\\":{\\\"mf_input_label\\\":\\\"Last Name\\\",\\\"mf_input_name\\\":\\\"mf-last-name\\\",\\\"mf_input_placeholder\\\":\\\"Mikoo\\\",\\\"mf_input_help_text\\\":\\\"Enter your last name here\\\",\\\"mf_input_label_color\\\":\\\"#333333\\\",\\\"mf_input_label_typography_typography\\\":\\\"custom\\\",\\\"mf_input_label_typography_font_weight\\\":\\\"500\\\",\\\"mf_input_label_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":21,\\\"sizes\\\":[]},\\\"mf_input_label_margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"5\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_input_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"15\\\",\\\"right\\\":\\\"25\\\",\\\"bottom\\\":\\\"15\\\",\\\"left\\\":\\\"25\\\",\\\"isLinked\\\":false},\\\"mf_input_color\\\":\\\"#333333\\\",\\\"mf_input_border_border\\\":\\\"solid\\\",\\\"mf_input_border_width\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"1\\\",\\\"right\\\":\\\"1\\\",\\\"bottom\\\":\\\"1\\\",\\\"left\\\":\\\"1\\\",\\\"isLinked\\\":true},\\\"mf_input_border_color\\\":\\\"#DEDEDE\\\",\\\"mf_input_typgraphy_typography\\\":\\\"custom\\\",\\\"mf_input_typgraphy_font_family\\\":\\\"Helvetica\\\",\\\"mf_input_typgraphy_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":14,\\\"sizes\\\":[]},\\\"mf_input_typgraphy_font_weight\\\":\\\"400\\\",\\\"mf_input_typgraphy_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":15,\\\"sizes\\\":[]},\\\"mf_input_box_shadow_box_shadow_type\\\":\\\"yes\\\",\\\"mf_input_box_shadow_box_shadow\\\":{\\\"horizontal\\\":0,\\\"vertical\\\":3,\\\"blur\\\":5,\\\"spread\\\":0,\\\"color\\\":\\\"rgba(0, 0, 0, 0)\\\"},\\\"mf_input_place_holder_typography_typography\\\":\\\"custom\\\",\\\"mf_input_place_holder_typography_font_weight\\\":\\\"300\\\",\\\"mf_input_placeholder_color\\\":\\\"#777777\\\",\\\"mf_input_help_text_typography_typography\\\":\\\"custom\\\",\\\"mf_input_help_text_typography_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":12,\\\"sizes\\\":[]},\\\"mf_input_help_text_typography_font_weight\\\":\\\"400\\\",\\\"mf_input_help_text_typography_font_style\\\":\\\"italic\\\",\\\"mf_input_help_text_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":14,\\\"sizes\\\":[]},\\\"mf_input_help_text_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"3\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_input_required\\\":\\\"yes\\\",\\\"mf_input_required_indicator_color\\\":\\\"#B60404\\\",\\\"mf_input_validation_warning_message\\\":\\\"Something went wrong.\\\"},\\\"elements\\\":[],\\\"widgetType\\\":\\\"mf-text\\\"}],\\\"isInner\\\":true}],\\\"isInner\\\":true},{\\\"id\\\":\\\"6500652b\\\",\\\"elType\\\":\\\"section\\\",\\\"settings\\\":{\\\"gap\\\":\\\"extended\\\",\\\"structure\\\":\\\"20\\\",\\\"margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":0,\\\"bottom\\\":\\\"24\\\",\\\"left\\\":0,\\\"isLinked\\\":false}},\\\"elements\\\":[{\\\"id\\\":\\\"4b4a901a\\\",\\\"elType\\\":\\\"column\\\",\\\"settings\\\":{\\\"_column_size\\\":50,\\\"_inline_size\\\":null,\\\"margin_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"24\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"10\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"padding_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false}},\\\"elements\\\":[{\\\"id\\\":\\\"3f9e2ff8\\\",\\\"elType\\\":\\\"widget\\\",\\\"settings\\\":{\\\"mf_input_label\\\":\\\"Email Address\\\",\\\"mf_input_name\\\":\\\"mf-email\\\",\\\"mf_input_placeholder\\\":\\\"\\\",\\\"mf_input_help_text\\\":\\\"Example: user@website.com\\\",\\\"mf_input_required\\\":\\\"yes\\\",\\\"mf_input_label_color\\\":\\\"#333333\\\",\\\"mf_input_label_typography_typography\\\":\\\"custom\\\",\\\"mf_input_label_typography_font_weight\\\":\\\"500\\\",\\\"mf_input_label_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":21,\\\"sizes\\\":[]},\\\"mf_input_label_margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"5\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_input_required_indicator_color\\\":\\\"#B60404\\\",\\\"mf_input_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"15\\\",\\\"right\\\":\\\"25\\\",\\\"bottom\\\":\\\"15\\\",\\\"left\\\":\\\"25\\\",\\\"isLinked\\\":false},\\\"mf_input_color\\\":\\\"#333333\\\",\\\"mf_input_border_border\\\":\\\"solid\\\",\\\"mf_input_border_width\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"1\\\",\\\"right\\\":\\\"1\\\",\\\"bottom\\\":\\\"1\\\",\\\"left\\\":\\\"1\\\",\\\"isLinked\\\":true},\\\"mf_input_border_color\\\":\\\"#DEDEDE\\\",\\\"mf_input_typgraphy_typography\\\":\\\"custom\\\",\\\"mf_input_typgraphy_font_family\\\":\\\"Helvetica\\\",\\\"mf_input_typgraphy_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":14,\\\"sizes\\\":[]},\\\"mf_input_typgraphy_font_weight\\\":\\\"400\\\",\\\"mf_input_typgraphy_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":15,\\\"sizes\\\":[]},\\\"mf_input_box_shadow_box_shadow_type\\\":\\\"yes\\\",\\\"mf_input_box_shadow_box_shadow\\\":{\\\"horizontal\\\":0,\\\"vertical\\\":3,\\\"blur\\\":5,\\\"spread\\\":0,\\\"color\\\":\\\"rgba(0, 0, 0, 0)\\\"},\\\"mf_input_place_holder_typography_typography\\\":\\\"custom\\\",\\\"mf_input_place_holder_typography_font_weight\\\":\\\"300\\\",\\\"mf_input_placeholder_color\\\":\\\"#777777\\\",\\\"mf_input_help_text_typography_typography\\\":\\\"custom\\\",\\\"mf_input_help_text_typography_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":12,\\\"sizes\\\":[]},\\\"mf_input_help_text_typography_font_weight\\\":\\\"400\\\",\\\"mf_input_help_text_typography_font_style\\\":\\\"italic\\\",\\\"mf_input_help_text_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":14,\\\"sizes\\\":[]},\\\"mf_input_help_text_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"3\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_input_validation_warning_message\\\":\\\"Something went wrong.\\\"},\\\"elements\\\":[],\\\"widgetType\\\":\\\"mf-email\\\"}],\\\"isInner\\\":true},{\\\"id\\\":\\\"76dec3d0\\\",\\\"elType\\\":\\\"column\\\",\\\"settings\\\":{\\\"_column_size\\\":50,\\\"_inline_size\\\":null,\\\"margin_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"24\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"10\\\",\\\"isLinked\\\":false},\\\"padding_mobile\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false}},\\\"elements\\\":[{\\\"id\\\":\\\"4bb51640\\\",\\\"elType\\\":\\\"widget\\\",\\\"settings\\\":{\\\"mf_input_label\\\":\\\"Subject\\\",\\\"mf_input_name\\\":\\\"mf-subject\\\",\\\"mf_input_placeholder\\\":\\\"\\\",\\\"mf_input_help_text\\\":\\\"How can we help you?\\\",\\\"mf_input_required\\\":\\\"yes\\\",\\\"mf_input_label_color\\\":\\\"#333333\\\",\\\"mf_input_label_typography_typography\\\":\\\"custom\\\",\\\"mf_input_label_typography_font_weight\\\":\\\"500\\\",\\\"mf_input_label_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":21,\\\"sizes\\\":[]},\\\"mf_input_label_margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"5\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_input_required_indicator_color\\\":\\\"#B60404\\\",\\\"mf_input_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"15\\\",\\\"right\\\":\\\"25\\\",\\\"bottom\\\":\\\"15\\\",\\\"left\\\":\\\"25\\\",\\\"isLinked\\\":false},\\\"mf_input_color\\\":\\\"#333333\\\",\\\"mf_input_border_border\\\":\\\"solid\\\",\\\"mf_input_border_width\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"1\\\",\\\"right\\\":\\\"1\\\",\\\"bottom\\\":\\\"1\\\",\\\"left\\\":\\\"1\\\",\\\"isLinked\\\":true},\\\"mf_input_border_color\\\":\\\"#DEDEDE\\\",\\\"mf_input_typgraphy_typography\\\":\\\"custom\\\",\\\"mf_input_typgraphy_font_family\\\":\\\"Helvetica\\\",\\\"mf_input_typgraphy_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":14,\\\"sizes\\\":[]},\\\"mf_input_typgraphy_font_weight\\\":\\\"400\\\",\\\"mf_input_typgraphy_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":15,\\\"sizes\\\":[]},\\\"mf_input_box_shadow_box_shadow_type\\\":\\\"yes\\\",\\\"mf_input_box_shadow_box_shadow\\\":{\\\"horizontal\\\":0,\\\"vertical\\\":3,\\\"blur\\\":5,\\\"spread\\\":0,\\\"color\\\":\\\"rgba(0, 0, 0, 0)\\\"},\\\"mf_input_place_holder_typography_typography\\\":\\\"custom\\\",\\\"mf_input_place_holder_typography_font_weight\\\":\\\"300\\\",\\\"mf_input_placeholder_color\\\":\\\"#777777\\\",\\\"mf_input_help_text_typography_typography\\\":\\\"custom\\\",\\\"mf_input_help_text_typography_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":12,\\\"sizes\\\":[]},\\\"mf_input_help_text_typography_font_weight\\\":\\\"400\\\",\\\"mf_input_help_text_typography_font_style\\\":\\\"italic\\\",\\\"mf_input_help_text_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":14,\\\"sizes\\\":[]},\\\"mf_input_help_text_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"3\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_input_validation_warning_message\\\":\\\"Something went wrong.\\\"},\\\"elements\\\":[],\\\"widgetType\\\":\\\"mf-text\\\"}],\\\"isInner\\\":true}],\\\"isInner\\\":true},{\\\"id\\\":\\\"1f9128e6\\\",\\\"elType\\\":\\\"section\\\",\\\"settings\\\":{\\\"gap\\\":\\\"extended\\\"},\\\"elements\\\":[{\\\"id\\\":\\\"20c49643\\\",\\\"elType\\\":\\\"column\\\",\\\"settings\\\":{\\\"_column_size\\\":100,\\\"_inline_size\\\":null,\\\"space_between_widgets\\\":0,\\\"margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"7\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false}},\\\"elements\\\":[{\\\"id\\\":\\\"46fd3e83\\\",\\\"elType\\\":\\\"widget\\\",\\\"settings\\\":{\\\"mf_input_label\\\":\\\"Comments \\\\\/ Questions\\\",\\\"mf_input_name\\\":\\\"mf-comment\\\",\\\"mf_input_placeholder\\\":\\\"\\\",\\\"mf_input_required\\\":\\\"yes\\\",\\\"mf_input_label_color\\\":\\\"#333333\\\",\\\"mf_input_label_typography_typography\\\":\\\"custom\\\",\\\"mf_input_label_typography_font_weight\\\":\\\"500\\\",\\\"mf_input_label_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":21,\\\"sizes\\\":[]},\\\"mf_input_label_margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"5\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_input_required_indicator_color\\\":\\\"#B60404\\\",\\\"mf_input_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"15\\\",\\\"right\\\":\\\"25\\\",\\\"bottom\\\":\\\"15\\\",\\\"left\\\":\\\"25\\\",\\\"isLinked\\\":false},\\\"mf_input_color\\\":\\\"#333333\\\",\\\"mf_input_border_border\\\":\\\"solid\\\",\\\"mf_input_border_width\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"1\\\",\\\"right\\\":\\\"1\\\",\\\"bottom\\\":\\\"1\\\",\\\"left\\\":\\\"1\\\",\\\"isLinked\\\":true},\\\"mf_input_border_color\\\":\\\"#DEDEDE\\\",\\\"mf_input_typgraphy_typography\\\":\\\"custom\\\",\\\"mf_input_typgraphy_font_family\\\":\\\"Helvetica\\\",\\\"mf_input_typgraphy_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":14,\\\"sizes\\\":[]},\\\"mf_input_typgraphy_font_weight\\\":\\\"400\\\",\\\"mf_input_typgraphy_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":15,\\\"sizes\\\":[]},\\\"mf_input_box_shadow_box_shadow_type\\\":\\\"yes\\\",\\\"mf_input_box_shadow_box_shadow\\\":{\\\"horizontal\\\":0,\\\"vertical\\\":3,\\\"blur\\\":5,\\\"spread\\\":0,\\\"color\\\":\\\"rgba(0, 0, 0, 0)\\\"},\\\"mf_input_place_holder_typography_typography\\\":\\\"custom\\\",\\\"mf_input_place_holder_typography_font_weight\\\":\\\"300\\\",\\\"mf_input_placeholder_color\\\":\\\"#777777\\\",\\\"mf_input_help_text_typography_typography\\\":\\\"custom\\\",\\\"mf_input_help_text_typography_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":12,\\\"sizes\\\":[]},\\\"mf_input_help_text_typography_font_weight\\\":\\\"400\\\",\\\"mf_input_help_text_typography_font_style\\\":\\\"italic\\\",\\\"mf_input_help_text_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":14,\\\"sizes\\\":[]},\\\"mf_input_help_text_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"3\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_textarea_field_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":140,\\\"sizes\\\":[]},\\\"mf_input_validation_warning_message\\\":\\\"Something went wrong.\\\",\\\"mf_input_background_background\\\":\\\"classic\\\",\\\"mf_input_background_color\\\":\\\"#FFFFFF\\\"},\\\"elements\\\":[],\\\"widgetType\\\":\\\"mf-textarea\\\"},{\\\"id\\\":\\\"382ffc7\\\",\\\"elType\\\":\\\"widget\\\",\\\"settings\\\":{\\\"_margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"40\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_recaptcha_type\\\":\\\"recaptcha-v2\\\",\\\"mf_input_label\\\":\\\"reCAPTCHA\\\",\\\"mf_input_placeholder\\\":\\\"reCAPTCHA\\\"},\\\"elements\\\":[],\\\"widgetType\\\":\\\"mf-recaptcha\\\"},{\\\"id\\\":\\\"52c73697\\\",\\\"elType\\\":\\\"widget\\\",\\\"settings\\\":{\\\"mf_btn_text\\\":\\\"Send Message\\\",\\\"mf_btn_align\\\":\\\"left\\\",\\\"mf_btn_text_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"15\\\",\\\"right\\\":\\\"20\\\",\\\"bottom\\\":\\\"15\\\",\\\"left\\\":\\\"20\\\",\\\"isLinked\\\":false},\\\"mf_btn_typography_typography\\\":\\\"custom\\\",\\\"mf_btn_typography_font_family\\\":\\\"Space Mono\\\",\\\"mf_btn_typography_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":11,\\\"sizes\\\":[]},\\\"mf_btn_typography_font_weight\\\":\\\"500\\\",\\\"mf_btn_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":\\\"\\\",\\\"sizes\\\":[]},\\\"mf_btn_bg_color_background\\\":\\\"classic\\\",\\\"mf_btn_bg_color_color\\\":\\\"#FF6400\\\",\\\"mf_btn_box_shadow_group_box_shadow_type\\\":\\\"yes\\\",\\\"mf_btn_box_shadow_group_box_shadow\\\":{\\\"horizontal\\\":0,\\\"vertical\\\":7,\\\"blur\\\":15,\\\"spread\\\":0,\\\"color\\\":\\\"rgba(66, 133, 244, 0)\\\"},\\\"_margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"40\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_btn_typography_letter_spacing\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":2,\\\"sizes\\\":[]},\\\"mf_btn_text_color\\\":\\\"#FFFFFF\\\",\\\"mf_btn_border_radius\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":true}},\\\"elements\\\":[],\\\"widgetType\\\":\\\"mf-button\\\"},{\\\"id\\\":\\\"df7b1f6\\\",\\\"elType\\\":\\\"widget\\\",\\\"settings\\\":{\\\"_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"0\\\",\\\"right\\\":\\\"15\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"15\\\",\\\"isLinked\\\":false},\\\"_margin\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"20\\\",\\\"right\\\":\\\"0\\\",\\\"bottom\\\":\\\"0\\\",\\\"left\\\":\\\"0\\\",\\\"isLinked\\\":false},\\\"mf_response_padding\\\":{\\\"unit\\\":\\\"px\\\",\\\"top\\\":\\\"12\\\",\\\"right\\\":\\\"30\\\",\\\"bottom\\\":\\\"12\\\",\\\"left\\\":\\\"30\\\",\\\"isLinked\\\":false},\\\"mf_response_typography_typography\\\":\\\"custom\\\",\\\"mf_response_typography_font_family\\\":\\\"Helvetica\\\",\\\"mf_response_typography_font_size\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":16,\\\"sizes\\\":[]},\\\"mf_response_typography_font_weight\\\":\\\"500\\\",\\\"mf_response_typography_line_height\\\":{\\\"unit\\\":\\\"px\\\",\\\"size\\\":21,\\\"sizes\\\":[]}},\\\"elements\\\":[],\\\"widgetType\\\":\\\"mf-response\\\"}],\\\"isInner\\\":true}],\\\"isInner\\\":true}],\\\"isInner\\\":false}],\\\"isInner\\\":false}]\"]}"
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "metform",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}

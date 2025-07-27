@@ -1,0 +1,6 @@
+2025-07-27T19:47:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\project1\wp-content\plugins\metform\widgets\range\range.php on line 3
+
+2025-07-27T19:48:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\project1\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2025-07-27T19:48:29+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\project1\wp-content\plugins\premium-addons-for-elementor\includes\pa-display-conditions\conditions\user-role.php on line 14
+
