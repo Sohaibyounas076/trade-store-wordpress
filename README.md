@@ -1,6 +1,5 @@
 # 🛍️ Trade Store – WooCommerce eCommerce Website
 
-![Trade Store Screenshot](main/tradestore.png)
 
 **Trade Store** is a fully responsive, modern eCommerce website built using **WordPress** and **WooCommerce**, designed to meet the client’s vision of an online store with a professional and user-friendly interface. This project was delivered successfully to a client who approached me via LinkedIn.
 
@@ -39,30 +38,16 @@ This WooCommerce store was developed to provide an attractive and functional sho
 
 ## 👨‍💻 About Me
 
-I’m a passionate Web Designer and Developer specializing in WordPress and Shopify. I focus on delivering clean, responsive, and fully functional websites for clients globally.
+I hold a Bachelor’s degree in Computer Science and currently work as a Police Station Assistant (PSA) in Punjab Police, where I handle data entry and administrative tasks. Alongside my job, I continue to grow my freelancing career with dedication and professionalism.
 
-- 🌐 **GitHub Portfolio**: [sohaibyounas076](https://github.com/Sohaibyounas076)
-- 💼 **LinkedIn**: [linkedin.com/in/sohaibyounas076](https://linkedin.com/in/sohaibyounas076)
-- 🧑‍💻 **Portfolio Website**: [sohaibyounas076.github.io/portfolio](https://sohaibyounas076.github.io/portfolio)
+I am a WordPress developer with 3+ years of experience, specializing in WordPress, Elementor Pro, Wix, Shopify, HTML, CSS, and theme customization. I’ve successfully delivered projects for various clients, working with companies and freelancing on platforms like Upwork, Fiverr, and LinkedIn. My expertise ensures the creation of high-quality, responsive, and visually appealing websites tailored to meet client needs.
 
----
-
-## 📁 Project Structure
-
-```
-trade-store-wordpress/
-│
-├── main/
-│   └── tradestore.png   # Screenshot of the website
-│
-└── README.md            # Project overview and details
-```
 
 ---
 
 ## 📷 Screenshot
 
-![Trade Store Screenshot](main/tradestore.png)
+![Trade Store Screenshot](https://github.com/Sohaibyounas076/trade-store-wordpress/blob/master/tradestore.png)
 
 ---
 
@@ -70,9 +55,11 @@ trade-store-wordpress/
 
 Feel free to reach out if you'd like to collaborate or have a project in mind:
 
+- 🧑‍💻 **Portfolio Website**: [sohaibyounas076.github.io/portfolio](https://sohaibyounas076.github.io/portfolio)
 - 📧 Email: sohaibyounas076@gmail.com  
-- 📱 WhatsApp: +92 301 7213546  
-- 🌐 Portfolio: [https://sohaibyounas076.github.io/portfolio](https://sohaibyounas076.github.io/portfolio)
+- 🌐 **GitHub Portfolio**: [sohaibyounas076](https://github.com/Sohaibyounas076)
+- 💼 **LinkedIn**: [linkedin.com/in/sohaibyounas076](https://linkedin.com/in/sohaibyounas076)
+
 
 ---
 
