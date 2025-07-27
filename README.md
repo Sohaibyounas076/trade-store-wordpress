@@ -55,9 +55,9 @@ I am a WordPress developer with 3+ years of experience, specializing in WordPres
 
 Feel free to reach out if you'd like to collaborate or have a project in mind:
 
-- 🧑‍💻 **Portfolio Website**: [sohaibyounas076.github.io/portfolio](https://sohaibyounas076.github.io/portfolio)
+- 🧑‍💻 **Portfolio**: [sohaibyounas076.github.io/portfolio](https://sohaibyounas076.github.io/portfolio)
 - 📧 Email: sohaibyounas076@gmail.com  
-- 🌐 **GitHub Portfolio**: [sohaibyounas076](https://github.com/Sohaibyounas076)
+- 🌐 **GitHub**: [sohaibyounas076](https://github.com/Sohaibyounas076)
 - 💼 **LinkedIn**: [linkedin.com/in/sohaibyounas076](https://linkedin.com/in/sohaibyounas076)
 
 
